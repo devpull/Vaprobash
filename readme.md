@@ -31,10 +31,10 @@ Some further assumptions and self-imposed restrictions. If you find yourself nee
 
 ```bash
 # curl
-$ curl -L http://bit.ly/devpull-vaprobash > Vagrantfile
+$ curl -L http://bit.ly/truetamtam-vaprobash > Vagrantfile
 
 # wget
-$ wget -O Vagrantfile http://bit.ly/devpull-vaprobash
+$ wget -O Vagrantfile http://bit.ly/truetamtam-vaprobash
 ```
 
 > The `bit.ly` link will always point to the master branch version of the Vagrantfile.
