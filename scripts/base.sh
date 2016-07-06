@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-echo "Setting Timezone & Locale to $3 & en_US.UTF-8"
+echo "Setting Timezone & Locale to $3 & ru_RU.UTF-8"
 
 sudo ln -sf /usr/share/zoneinfo/$3 /etc/localtime
 sudo apt-get install -qq language-pack-ru
